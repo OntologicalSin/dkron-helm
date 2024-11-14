@@ -81,6 +81,8 @@ agent:
 
   log:
     level: "info"
+    
+  tags:
 
   deploymentAnnotations: {}
 
